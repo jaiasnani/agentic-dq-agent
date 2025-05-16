@@ -1,0 +1,10 @@
+- rule: NotNull
+  column: Country Name
+
+- rule: ValidRange
+  column: GDP
+  min: 100
+  max: 100000000
+
+- rule: NoDuplicates
+  columns: [Country Name, Year]
