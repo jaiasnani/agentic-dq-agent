@@ -1,0 +1,9 @@
+langchain
+langgraph
+openai
+pandas
+requests
+faiss-cpu
+streamlit
+pyyaml
+tqdm
